@@ -33,8 +33,8 @@ Pregunta 4:  Con la implementacion de J2 y J3 <br>
 
 El eulerint deriva del odeint al final de tiempo en : 19801.262 km  <br>
 Tiempo de:  <br>
-odeint --> 1.426  <br>
-eulerint --> 2.715 <br>
+odeint --> 1.426 s <br>
+eulerint --> 2.715 s<br>
 
 3. Al hacer correr mi codigo aumentando el numero de subdivisiones se vio una disminucion considerable en la distancia del eulerint con el odeint. Lamentablemente al llegar a alrededor de 1000 subdivisiones el programa se demoraba demasiado como para seguir aumentandolo por lo que no me fue posible llegar al 1% de error. Pero aprendi que si se aumenta el numero de subdivisiones la deriva disminuye considerablemente. <br>
 4. El codigo se demora:  7.415 s
