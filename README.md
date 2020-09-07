@@ -8,11 +8,11 @@ Se puede ver claramente que las curvas odeint,eulerint 10 , eulerint 100 y real 
 
 # Entrega 5
 Pregunta 1:<br>
-![alt text]()<br>
+![alt text](https://github.com/Javcia98/MCOC2020-P1/blob/master/Entrega_5/G-1%20(1).png)<br>
  
 
 Pregunta 2: <br>
-![alt text]() <br>
+![alt text](https://github.com/Javcia98/MCOC2020-P1/blob/master/Entrega_5/G-2%20(2).png) <br>
 
 El eulerint deriva del odeint al final de tiempo en : 19801.760 km  <br>
 Tiempo de:  <br>
@@ -25,11 +25,11 @@ Pregunta 3: Al hacer correr mi codigo aumentando el numero de subdivisiones se v
 
 Pregunta 4:  Con la implementacion de J2 y J3 <br>
 1. <br>
-![alt text]() <br>
+![alt text](https://github.com/Javcia98/MCOC2020-P1/blob/master/Entrega_5/G-1J%20(1).png) <br>
  
 
 2.  <br>
-![alt text]() <br>
+![alt text](https://github.com/Javcia98/MCOC2020-P1/blob/master/Entrega_5/G-2J%20(2).png) <br>
 
 El eulerint deriva del odeint al final de tiempo en : 19801.262 km  <br>
 Tiempo de:  <br>
